@@ -1,0 +1,6 @@
+{
+  "name": "LineZero Python CI",
+  "description": "Install and test a Python repository.",
+  "iconName": "octicon mark-github",
+  "categories": ["Python"]
+}
